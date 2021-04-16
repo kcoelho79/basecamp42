@@ -1,0 +1,1 @@
+find  . \( -iname *\[#~] -or -iname \[#]* \) -exec rm -r {} \; -print
