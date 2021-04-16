@@ -1,4 +1,4 @@
-#Exercício Linguagem C, realizados durante o Basecamp #42 em 04/2021
+# Exercício Linguagem C, realizados durante o Basecamp #42 em 04/2021
 
 ## Lista C00 - Aproveitamento 85%
 https://www.youtube.com/playlist?list=PLVQYiy6xNUxz5wbzZn4tfUhF4djgzscB-
@@ -81,4 +81,4 @@ https://www.youtube.com/playlist?list=PLVQYiy6xNUxxDlCkkCX262SI90TsllYUW
 - [x] ft_print_program_name.c
 - [x] ft_print_params.c
 - [x] ft_rev_params.c
-- [x] ft_sort_params.c 				
+- [x] ft_sort_params.c
